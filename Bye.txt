@@ -1,3 +1,0 @@
-SayHi
-Hello
-
